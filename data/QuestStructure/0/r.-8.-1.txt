@@ -1,0 +1,8 @@
+StonePlantMound2,-4401,-4388,-1006,-994
+StonePlantMound4,-4370,-4363,-997,-990
+StonePlantMound3,-4473,-4462,-988,-979
+StonePlantMound,-4462,-4457,-931,-926
+StoneLeafMound,-4330,-4323,-913,-904
+RLCraft_UndergroundFarm,-4290,-4247,-963,-921
+RLCraft_UndergroundFarm,-4303,-4260,-958,-916
+StonePlantMound4,-4291,-4284,-944,-937

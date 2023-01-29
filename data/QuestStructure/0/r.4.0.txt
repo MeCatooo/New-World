@@ -1,0 +1,13 @@
+RLCraft_SmallUndergroundSkeleton,2536,2544,-54,-46
+ShrineSmallFire,2510,2520,-84,-74
+StonePlantMound1,2521,2527,-197,-191
+WoodThorn,2511,2522,94,105
+StonePlantMound,2476,2481,-153,-148
+StonePlantMound4,2473,2480,64,71
+RLCraft_SmallUndergroundSkeleton,2480,2488,-250,-242
+StoneBoulder,2458,2467,-249,-240
+DinosaurSkeleton,2216,2225,-364,-318
+MysticalTree2,2164,2174,-291,-281
+StoneLeafMound,2056,2065,-346,-339
+StonePlantBoulder,2060,2070,-311,-301
+StonePlantMound,2074,2079,-440,-435

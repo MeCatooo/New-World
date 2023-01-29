@@ -1,0 +1,15 @@
+StonePlantMound4,3812,3819,-4265,-4258
+StonePlantMound,3835,3840,-4306,-4301
+StoneLeafMound,3766,3775,-4247,-4240
+StoneLeafMound,3799,3808,-4236,-4229
+StonePlantMound1,3833,3839,-4223,-4217
+StonePlantMound,3745,3750,-4253,-4248
+StonePlantMound,3866,3871,-4308,-4303
+StonePlantBoulder,3816,3826,-4221,-4211
+StonePlantMound4,3738,3745,-4251,-4244
+StonePlantMound,3769,3774,-4207,-4202
+RLCraft_SmallUndergroundSkeleton,3923,3931,-4200,-4192
+StonePlantMound,3864,3869,-4150,-4145
+StonePlantMound2,3941,3953,-4150,-4137
+StonePlantMound4,3906,3913,-4436,-4429
+ThreeTowers,3638,3669,-4452,-4420

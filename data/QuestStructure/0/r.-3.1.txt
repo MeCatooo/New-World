@@ -1,0 +1,4 @@
+P_RuinedHouse,-1753,-1736,967,992
+StonePlantMound2,-1666,-1654,973,986
+SmallAbandonedOutpost,-1578,-1556,1000,1030
+RLCraft_SmallUndergroundSkeleton,-1846,-1838,959,967

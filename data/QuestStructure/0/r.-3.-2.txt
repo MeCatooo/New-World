@@ -1,0 +1,4 @@
+StoneLeafMound,-1797,-1790,-1483,-1474
+StonePlantMound4,-1841,-1834,-1480,-1473
+StonePlantBoulder,-1758,-1748,-1469,-1459
+StonePlantMound3,-1799,-1790,-1448,-1437

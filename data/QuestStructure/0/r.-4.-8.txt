@@ -1,0 +1,13 @@
+StoneBoulder,-2323,-2314,-4243,-4234
+RLCraft_PlainsWindmill,-2369,-2298,-4236,-4151
+StonePlantMound1,-2289,-2283,-4201,-4195
+RLCraft_DecentWitch,-2297,-2297,-4234,-4234
+RLCraft_UndergroundRuin2,-2299,-2292,-4239,-4229
+StonePlantBoulder,-2272,-2262,-4225,-4215
+StoneBoulder,-2487,-2478,-4223,-4214
+Tree_Oak_TheMushroomOak_v3,-2254,-2195,-4197,-4147
+RLCraft_DecentCaveSpider,-2224,-2224,-4218,-4218
+RLCraft_UndergroundRuin2,-2229,-2219,-4220,-4213
+StoneBoulder,-2317,-2308,-4315,-4306
+StonePlantMound2,-2528,-2515,-4238,-4226
+StonePlantMound,-2476,-2471,-4307,-4302

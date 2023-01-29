@@ -1,0 +1,13 @@
+StonePlantMound3,-137,-126,94,103
+StonePlantMound1,-9,-3,117,123
+StonePlantMound3,29,38,-266,-255
+RLCraft_FriendlyOutpost,-5,34,233,301
+StonePlantMound,47,52,165,170
+RLCraft_DecentWitch,46,46,351,351
+RLCraft_UndergroundRuin3,44,52,348,356
+MeteorSite,73,88,98,128
+StonePlantMound4,135,142,363,370
+RLCraft_DecentSpider,159,159,340,340
+RLCraft_UndergroundRuin3,156,164,334,342
+DinosaurSkeleton,177,223,84,93
+StonePlantMound,197,202,318,323

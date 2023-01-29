@@ -1,0 +1,9 @@
+StoneLeafMound,1821,1828,1979,1988
+StonePlantMound3,1774,1783,1941,1952
+RLCraft_UndergroundFarm,1828,1871,1876,1918
+StoneLeafMound,1895,1904,1920,1927
+RLCraft_DecentWitch,1747,1747,1946,1946
+RLCraft_UndergroundRuin2,1742,1752,1944,1951
+StonePlantMound3,1724,1733,1899,1910
+StonePlantMound,1710,1715,2037,2042
+StonePlantMound4,1919,1926,1833,1840

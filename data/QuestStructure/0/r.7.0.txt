@@ -1,0 +1,9 @@
+DinosaurSkeleton,3634,3643,-26,20
+RLCraft_DecentSpider,3631,3631,-40,-40
+RLCraft_UndergroundRuin2,3626,3633,-45,-35
+StoneIceBoulder1,3757,3767,94,104
+ShrineSmallFire,3589,3599,-22,-12
+IceThorn,3669,3695,170,185
+RLCraft_SmallUndergroundSkeleton,3802,3810,170,178
+RLCraft_BasicZombie,3832,3832,122,122
+RLCraft_UndergroundRuin1,3829,3838,116,125

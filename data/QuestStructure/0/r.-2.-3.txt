@@ -1,0 +1,16 @@
+ClayWaterMound,-1512,-1504,-1985,-1978
+SmallFortRuins,-1518,-1486,-1883,-1853
+SmallWoodenCottage2,-1471,-1463,-2009,-2001
+StonePlantMound,-1482,-1477,-1982,-1977
+StonePlantMound,-1457,-1452,-2047,-2042
+ShrineSmallAir,-1391,-1383,-1983,-1975
+RLCraft_SmallUndergroundSkeleton,-1392,-1384,-1979,-1971
+RLCraft_SmallUndergroundSkeleton,-1332,-1324,-1970,-1962
+ShrineSmallAir,-1310,-1302,-2018,-2010
+StonePlantMound1,-1433,-1427,-1772,-1766
+StonePlantMound4,-1415,-1408,-1880,-1873
+StonePlantMound1,-1349,-1343,-1799,-1793
+StonePlantMound2,-1386,-1374,-1771,-1758
+StonePlantMound2,-1412,-1399,-1738,-1726
+StoneBoulder,-1442,-1433,-1687,-1678
+RLCraft_UndergroundFarm,-1460,-1418,-1693,-1650

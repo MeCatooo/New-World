@@ -1,0 +1,4 @@
+StonePlantMound1,3306,3312,2538,2544
+StoneLeafMound,3273,3282,2541,2548
+StoneBoulder,3193,3202,2543,2552
+StoneBoulder,3148,3157,2538,2547

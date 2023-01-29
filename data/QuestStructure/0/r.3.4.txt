@@ -1,0 +1,4 @@
+RLCraft_DecentWitch,1852,1852,2122,2122
+RLCraft_UndergroundRuin2,1850,1857,2117,2127
+DinosaurSkull,1730,1749,2091,2102
+StonePlantMound1,1969,1975,2070,2076
