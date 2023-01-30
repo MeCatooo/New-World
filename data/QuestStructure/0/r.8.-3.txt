@@ -1,0 +1,14 @@
+RLCraft_DecentWitch,4474,4474,-1853,-1853
+RLCraft_UndergroundRuin3,4468,4476,-1856,-1848
+StonePlantMound1,4364,4370,-1733,-1727
+RLCraft_BasicCaveSpider,4577,4577,-1678,-1678
+RLCraft_UndergroundRuin1,4574,4583,-1684,-1675
+RLCraft_BasicSkeleton,4350,4350,-1908,-1908
+RLCraft_UndergroundRuin1,4347,4356,-1914,-1905
+P_WitchDungeon,4344,4378,-1653,-1636
+StoneLeafMound,4331,4338,-1819,-1810
+StonePlantMound2,4332,4344,-1833,-1820
+DinosaurSkull,4317,4336,-1758,-1747
+RLCraft_BasicCaveSpider,4311,4311,-1871,-1871
+RLCraft_UndergroundRuin1,4305,4314,-1877,-1868
+UnnaturalCrater,4285,4325,-1899,-1859

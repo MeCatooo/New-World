@@ -1,0 +1,10 @@
+ShrineSmallFire,-4899,-4889,-1003,-993
+RLCraft_SmallUndergroundSkeleton,-5079,-5071,-962,-954
+StonePlantMound3,-4833,-4824,-996,-985
+StonePlantMound,-4820,-4815,-996,-991
+StonePlantMound,-4792,-4787,-933,-928
+RLCraft_SmallUndergroundSkeleton,-4896,-4888,-910,-902
+StonePlantMound2,-4971,-4959,-916,-903
+RLCraft_DecentCaveSpider,-4998,-4998,-927,-927
+RLCraft_UndergroundRuin3,-5000,-4992,-930,-922
+DinosaurSkeleton,-5039,-4993,-893,-884

@@ -11,3 +11,12 @@ RLCraft_DecentSpider,159,159,340,340
 RLCraft_UndergroundRuin3,156,164,334,342
 DinosaurSkeleton,177,223,84,93
 StonePlantMound,197,202,318,323
+StonePlantMound,136,141,410,415
+StoneLeafMound,-394,-385,-428,-421
+StonePlantMound4,-379,-372,-489,-482
+VillageForgeLarge,-456,-440,-410,-398
+P_VillageFarmhouse,-454,-442,-387,-375
+SmallWoodenCottage1,-407,-401,-502,-491
+VillageTriplets,-513,-499,-410,-396
+SeasonsGreenhouse,-496,-486,-410,-398
+VillageGuardTower,-474,-462,-441,-429

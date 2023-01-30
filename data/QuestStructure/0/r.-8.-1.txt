@@ -6,3 +6,10 @@ StoneLeafMound,-4330,-4323,-913,-904
 RLCraft_UndergroundFarm,-4290,-4247,-963,-921
 RLCraft_UndergroundFarm,-4303,-4260,-958,-916
 StonePlantMound4,-4291,-4284,-944,-937
+StonePlantMound,-4355,-4350,-690,-685
+StonePlantMound1,-4379,-4373,-670,-664
+PeacefulCrypt,-4342,-4326,-787,-763
+StonePlantMound2,-4353,-4341,-668,-655
+StoneBoulder,-4353,-4344,-646,-637
+StonePlantMound1,-4438,-4432,-652,-646
+StoneLeafMound,-4341,-4332,-629,-622

@@ -1,0 +1,6 @@
+ElvenPond,2153,2183,-687,-658
+RLCraft_FriendlyOutpost,2123,2162,-803,-735
+StonePlantMound3,2079,2088,-607,-596
+RLCraft_SmallUndergroundSkeleton,2047,2055,-746,-738
+DinosaurSkull,2169,2180,-823,-804
+SmallWoodenCottage2,2050,2058,-790,-782

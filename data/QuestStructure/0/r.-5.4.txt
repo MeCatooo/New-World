@@ -1,0 +1,4 @@
+StonePlantMound3,-2773,-2762,2233,2242
+Tree_Oak_TheMushroomOak_v3,-2712,-2653,2203,2253
+RLCraft_DecentCaveSpider,-2591,-2591,2479,2479
+RLCraft_UndergroundRuin3,-2596,-2588,2473,2481

@@ -244,3 +244,9 @@ OldWatchtower,-2009,-1996,-2085,-2073
 VillageWoodMill,-1839,-1826,-2423,-2407
 ThreeTowers,-1765,-1734,-2429,-2397
 VillageHouseRich,-1802,-1783,-2425,-2410
+SmallOutpost,-1739,-1717,-2501,-2471
+StonePlantBoulder,-1604,-1594,-2529,-2519
+BrickHenge,-1652,-1636,-2559,-2543
+ElvenPond,-1694,-1664,-2557,-2528
+ElvenPond,-1885,-1855,-2497,-2468
+StonePlantMound2,-2048,-2035,-2362,-2350

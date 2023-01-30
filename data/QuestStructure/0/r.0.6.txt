@@ -1,0 +1,6 @@
+P_VillageFarmhouse,-366,-354,3188,3200
+SeasonsGreenhouse,-347,-337,3188,3200
+P_VillageHouse,-329,-320,3193,3204
+VillageMarketplace,-330,-316,3171,3185
+P_WitchDungeon,-338,-321,3166,3200
+RLCraft_Vineyard,-307,-287,3122,3150

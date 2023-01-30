@@ -17,3 +17,8 @@ MysticalTree2,-1257,-1247,-2124,-2114
 StonePlantMound3,-1516,-1507,-2376,-2365
 ClayWaterMound,-1260,-1252,-2322,-2315
 MeteorSite,-1234,-1204,-2280,-2265
+RLCraft_DecentWitch,-1369,-1369,-2449,-2449
+RLCraft_UndergroundRuin3,-1375,-1367,-2454,-2446
+StonePlantMound,-1183,-1178,-2276,-2271
+PeacefulCrypt,-1177,-1153,-2156,-2140
+StonePlantMound2,-1153,-1141,-2284,-2271

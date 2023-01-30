@@ -1,0 +1,10 @@
+P_Village2Story,-835,-829,-3086,-3073
+VillageWoodMill,-858,-842,-3095,-3082
+P_VillageHouse,-893,-882,-3133,-3124
+P_VillageFarmhouse,-893,-881,-3115,-3103
+SeasonsGreenhouse,-892,-882,-3095,-3083
+P_AncientTeleporter,-899,-864,-3210,-3177
+RLCraft_Vineyard,-956,-928,-3187,-3167
+RLCraft_RuinsParkour,-1023,-931,-3147,-3047
+P_Village2Story,-947,-934,-3210,-3204
+SeasonsGreenhouse,-914,-904,-3210,-3198

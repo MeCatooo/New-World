@@ -11,3 +11,6 @@ RLCraft_UndergroundRuin2,-2229,-2219,-4220,-4213
 StoneBoulder,-2317,-2308,-4315,-4306
 StonePlantMound2,-2528,-2515,-4238,-4226
 StonePlantMound,-2476,-2471,-4307,-4302
+StoneLeafMound,-2414,-2407,-4321,-4312
+StonePlantMound2,-2465,-2452,-4345,-4333
+StonePlantMound,-2552,-2547,-4269,-4264

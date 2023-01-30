@@ -1,3 +1,7 @@
 StoneBoulder,-4409,-4400,-1064,-1055
 StonePlantMound4,-4479,-4472,-1085,-1078
 StonePlantMound2,-4314,-4302,-1058,-1045
+StonePlantMound4,-4600,-4593,-1362,-1355
+StonePlantMound1,-4590,-4584,-1421,-1415
+MysticalTree1,-4607,-4594,-1423,-1412
+Tree_Oak_TheMushroomOak_v3,-4602,-4552,-1535,-1476

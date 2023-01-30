@@ -1,0 +1,2 @@
+StoneLeafMound,-5237,-5228,-1027,-1020
+StonePlantBoulder,-5164,-5154,-893,-883

@@ -14,3 +14,9 @@ StonePlantMound2,-1386,-1374,-1771,-1758
 StonePlantMound2,-1412,-1399,-1738,-1726
 StoneBoulder,-1442,-1433,-1687,-1678
 RLCraft_UndergroundFarm,-1460,-1418,-1693,-1650
+RLCraft_BasicSpider,-1287,-1287,-1699,-1699
+RLCraft_UndergroundRuin1,-1290,-1281,-1702,-1693
+RLCraft_DecentSkeleton,-1247,-1247,-1751,-1751
+RLCraft_UndergroundRuin3,-1250,-1242,-1757,-1749
+DinosaurSkull,-1241,-1222,-1662,-1651
+ClayWaterMound,-1155,-1147,-2042,-2035

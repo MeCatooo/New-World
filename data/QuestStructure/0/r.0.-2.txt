@@ -1,0 +1,3 @@
+StonePlantMound3,227,238,-1247,-1238
+StoneLeafMound,224,233,-1256,-1249
+StonePlantMound,305,310,-1213,-1208

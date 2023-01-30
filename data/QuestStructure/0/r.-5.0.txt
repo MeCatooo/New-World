@@ -1,0 +1,5 @@
+RLCraft_DecentWitch,-2755,-2755,158,158
+RLCraft_UndergroundRuin2,-2760,-2750,156,163
+ShrineSmallWater,-2570,-2562,251,259
+BlazeSpawnerCrystal,-2829,-2823,279,285
+ShrineSmallFire,-2842,-2832,57,67

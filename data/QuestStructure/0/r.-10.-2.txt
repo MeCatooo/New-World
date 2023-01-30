@@ -1,0 +1,9 @@
+SmallWoodenCottage,-5179,-5168,-1398,-1390
+StonePlantMound4,-5149,-5142,-1188,-1181
+StonePlantMound4,-5172,-5165,-1223,-1216
+RLCraft_DecentCaveSpider,-5222,-5222,-1163,-1163
+RLCraft_UndergroundRuin3,-5224,-5216,-1168,-1160
+P_Village2Story,-5275,-5269,-1286,-1273
+ThreeTowers,-5305,-5273,-1269,-1238
+StoneBoulder,-5262,-5253,-1397,-1388
+ShrineSmallFire,-5265,-5255,-1408,-1398

@@ -1,0 +1,8 @@
+DinosaurSkeleton,-2443,-2397,2261,2270
+MeteorSite,-2510,-2480,2351,2366
+StonePlantMound3,-2547,-2538,2233,2244
+StonePlantMound3,-2510,-2499,2152,2161
+HobbitHole,-2571,-2474,2157,2229
+SmallWoodenCottage1,-2452,-2441,2143,2149
+StoneLeafMound,-2324,-2315,2182,2189
+StonePlantMound2,-2290,-2278,2200,2213

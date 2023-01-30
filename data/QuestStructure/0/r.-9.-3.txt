@@ -1,0 +1,9 @@
+StonePlantMound4,-4751,-4744,-1554,-1547
+RLCraft_SmallUndergroundSkeleton,-4855,-4847,-1672,-1664
+StonePlantMound4,-4835,-4828,-1718,-1711
+StonePlantMound1,-5022,-5016,-1620,-1614
+StoneLeafMound,-5119,-5110,-1634,-1627
+Tree_Oak_TheMushroomOak_v3,-5016,-4957,-1652,-1602
+StoneBoulder,-4976,-4967,-1671,-1662
+SmallOutpost,-4722,-4692,-1615,-1593
+StonePlantMound,-4684,-4679,-1556,-1551
