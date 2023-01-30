@@ -1033,12 +1033,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2023-01-30 09:50:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2023-01-29 13:11:32 +0100"
@@ -1459,12 +1453,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2023-01-30 09:50:15 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2023-01-29 13:18:17 +0100"
@@ -1516,12 +1504,6 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-01-29 12:24:44 +0100"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2023-01-30 09:50:15 +0100"
     },
     "done": true
   },
