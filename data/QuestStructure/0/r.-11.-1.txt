@@ -1,0 +1,2 @@
+SmallOutpost,-5676,-5654,-984,-954
+StoneLeafMound,-5710,-5701,-999,-992

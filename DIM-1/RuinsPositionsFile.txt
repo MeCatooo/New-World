@@ -10,13 +10,18 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -1559 33 -1955 -1549 48 -1945 DoomTower.tml
+-821 30 -214 -811 41 -204 DoomHouse.tml
+-786 30 274 -777 36 282 NetherShrine.tml
 -754 44 -307 -744 59 -297 DoomTower.tml
 -747 34 -54 -739 41 -46 LargeNetherHouse.tml
 -746 35 -220 -737 41 -212 NetherShrine.tml
 -675 29 -345 -667 36 -337 LargeNetherHouse.tml
 -653 51 -238 -642 58 -228 WoodHouse3_Ruined.tml
+-626 74 228 -618 81 236 LargeNetherHouse.tml
+-622 44 87 -612 59 97 DoomTower.tml
 -516 66 -181 -511 71 -175 VanillaVillageCobbleHouse-r.tml
 -506 52 -263 -494 61 -253 StoneHouseMruined.tml
+-501 30 95 -493 36 104 NetherShrine.tml
 -498 39 -39 -486 45 -30 VanillaVillageEmptyHouse-r.tml
 -346 30 -402 -336 45 -392 DoomTower.tml
 -336 13 -128 -328 19 -118 VanillaVillageForge-r.tml

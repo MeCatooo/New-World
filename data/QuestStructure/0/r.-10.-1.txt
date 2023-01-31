@@ -1,2 +1,6 @@
 StoneLeafMound,-5237,-5228,-1027,-1020
 StonePlantBoulder,-5164,-5154,-893,-883
+StoneLeafMound,-5586,-5577,-1017,-1010
+MysticalTree1,-5611,-5600,-974,-961
+StonePlantMound,-5520,-5515,-963,-958
+P_WitchDungeon,-5427,-5410,-922,-888

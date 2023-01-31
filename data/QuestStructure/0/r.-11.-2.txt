@@ -1,0 +1,12 @@
+StonePlantBoulder,-5638,-5628,-1220,-1210
+StonePlantBoulder,-5639,-5629,-1425,-1415
+GiganticTree,-5672,-5603,-1486,-1408
+StonePlantMound2,-5763,-5750,-1415,-1403
+StonePlantMound,-5764,-5759,-1216,-1211
+StoneLeafMound,-5792,-5783,-1197,-1190
+Tree_Oak_TheMushroomOak_v3,-5804,-5745,-1231,-1181
+ShrineSmallAir,-5725,-5717,-1071,-1063
+StonePlantBoulder,-5805,-5795,-1152,-1142
+StoneLeafMound,-5812,-5803,-1247,-1240
+StoneLeafMound,-5811,-5802,-1087,-1080
+StonePlantMound4,-5900,-5893,-1388,-1381

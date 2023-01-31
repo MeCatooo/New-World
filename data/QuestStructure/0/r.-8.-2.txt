@@ -5,3 +5,12 @@ StonePlantMound4,-4600,-4593,-1362,-1355
 StonePlantMound1,-4590,-4584,-1421,-1415
 MysticalTree1,-4607,-4594,-1423,-1412
 Tree_Oak_TheMushroomOak_v3,-4602,-4552,-1535,-1476
+StonePlantMound,-4570,-4565,-1418,-1413
+ShrineSmallFire,-4487,-4477,-1405,-1395
+StonePlantMound3,-4442,-4433,-1318,-1307
+RLCraft_SmallUndergroundSkeleton,-4523,-4515,-1471,-1463
+WoodWallRemains,-4389,-4361,-1362,-1354
+DinosaurSkull,-4379,-4368,-1390,-1371
+MysticalTree2,-4557,-4547,-1526,-1516
+RLCraft_DecentSkeleton,-4425,-4425,-1527,-1527
+RLCraft_UndergroundRuin3,-4430,-4422,-1529,-1521

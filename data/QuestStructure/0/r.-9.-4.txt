@@ -1,0 +1,12 @@
+RLCraft_xKOSMOS42,-5085,-5059,-2079,-2050
+UndergroundCrypt,-5115,-5087,-2141,-2127
+StoneLeafMound,-5062,-5053,-2152,-2145
+RLCraft_DecentSpider,-4897,-4897,-2141,-2141
+RLCraft_UndergroundRuin2,-4902,-4895,-2146,-2136
+StonePlantMound2,-5083,-5071,-2189,-2176
+StoneBoulder,-4871,-4862,-2209,-2200
+StonePlantMound3,-4895,-4884,-2229,-2220
+VillageChurch,-4746,-4734,-2082,-2056
+DinosaurSkeleton,-4836,-4827,-2262,-2216
+DinosaurSkull,-4637,-4618,-2168,-2157
+StonePlantMound1,-4619,-4613,-2186,-2180

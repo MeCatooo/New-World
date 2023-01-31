@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2023-01-31 17:47:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-01-29 11:45:38 +0100"
@@ -427,7 +433,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2023-01-31 11:31:08 +0100",
       "cooked_beef": "2023-01-29 12:30:37 +0100",
+      "apple": "2023-01-31 15:42:16 +0100",
       "mutton": "2023-01-30 15:35:33 +0100",
       "bread": "2023-01-30 10:44:27 +0100",
       "golden_apple": "2023-01-30 12:02:07 +0100",
@@ -444,6 +452,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2023-01-30 16:58:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2023-01-31 13:38:31 +0100"
     },
     "done": true
   },
@@ -668,6 +682,12 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2023-01-30 10:00:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2023-01-31 13:45:40 +0100"
     },
     "done": true
   },
@@ -956,6 +976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2023-01-31 13:38:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-01-29 12:27:56 +0100"
@@ -964,8 +990,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2023-01-31 13:41:37 +0100",
       "wither_skeleton": "2023-01-30 14:49:38 +0100",
       "zombie_villager": "2023-01-29 12:17:07 +0100",
+      "magma_cube": "2023-01-31 15:16:17 +0100",
+      "slime": "2023-01-31 17:13:17 +0100",
       "vindicator": "2023-01-30 12:03:22 +0100",
       "skeleton": "2023-01-29 13:26:00 +0100",
       "blaze": "2023-01-30 14:46:05 +0100",
@@ -982,6 +1011,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-01-30 13:28:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-01-31 17:04:16 +0100"
     },
     "done": true
   },
@@ -1012,6 +1047,12 @@
   "defiledlands:recipes/tools/tears_flame": {
     "criteria": {
       "has_material": "2023-01-30 11:49:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-01-31 15:47:08 +0100"
     },
     "done": true
   },
@@ -1069,6 +1110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-01-31 17:04:16 +0100"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_item": "2023-01-30 12:23:22 +0100"
@@ -1084,6 +1131,18 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-01-29 12:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2023-01-31 12:52:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2023-01-31 15:47:04 +0100"
     },
     "done": true
   },
@@ -1108,6 +1167,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-01-30 13:28:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-01-31 18:22:08 +0100"
     },
     "done": true
   },
@@ -1597,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2023-01-31 17:04:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-01-29 13:28:24 +0100"
@@ -1998,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2023-01-31 12:13:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2023-01-29 11:45:30 +0100"
@@ -2037,6 +2114,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-01-29 12:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2023-01-31 15:47:04 +0100"
     },
     "done": true
   },
@@ -2133,6 +2216,18 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2023-01-29 14:05:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2023-01-31 12:13:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-01-31 17:04:16 +0100"
     },
     "done": true
   },

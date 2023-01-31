@@ -1,3 +1,9 @@
 StonePlantMound2,-5178,-5166,-1580,-1567
 RLCraft_DecentCaveSpider,-5183,-5183,-1617,-1617
 RLCraft_UndergroundRuin3,-5185,-5177,-1620,-1612
+StonePlantBoulder,-5218,-5208,-1588,-1578
+StonePlantMound1,-5206,-5200,-1678,-1672
+StoneBoulder,-5242,-5233,-1643,-1634
+StoneBoulder,-5239,-5230,-1624,-1615
+StonePlantMound,-5127,-5122,-1761,-1756
+StoneLeafMound,-5152,-5143,-1793,-1786
