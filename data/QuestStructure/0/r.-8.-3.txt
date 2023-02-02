@@ -5,3 +5,4 @@ ShrineSmallFire,-4584,-4574,-1780,-1770
 RLCraft_SmallUndergroundSkeleton,-4497,-4489,-1837,-1829
 RLCraft_DecentWitch,-4481,-4481,-1769,-1769
 RLCraft_UndergroundRuin2,-4486,-4479,-1774,-1764
+StoneIceBoulder2,-4112,-4103,-1718,-1709

@@ -1,0 +1,5 @@
+RLCraft_DecentSkeleton,-6305,-6305,-308,-308
+RLCraft_UndergroundRuin2,-6310,-6303,-313,-303
+ShrineSmallWater,-6394,-6386,-466,-458
+RLCraft_DecentCaveSpider,-6464,-6464,-471,-471
+RLCraft_UndergroundRuin2,-6466,-6459,-476,-466

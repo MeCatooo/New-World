@@ -1,0 +1,14 @@
+RLCraft_BasicWitch,-2547,-2547,-1520,-1520
+RLCraft_UndergroundRuin1,-2553,-2544,-1523,-1514
+ClayWaterMound1,-2527,-2517,-1420,-1409
+StonePlantMound,-2450,-2445,-1442,-1437
+P_VillageFarmhouse,-2357,-2345,-1422,-1410
+StonePlantMound4,-2343,-2336,-1405,-1398
+VillageWoodMill,-2330,-2314,-1422,-1409
+StonePlantMound3,-2550,-2541,-1405,-1394
+RLCraft_DecentSkeleton,-2295,-2295,-1408,-1408
+RLCraft_UndergroundRuin2,-2297,-2290,-1413,-1403
+ThreeTowers,-2293,-2262,-1385,-1353
+StoneLeafMound,-2517,-2508,-1377,-1370
+P_Village2Story,-2352,-2346,-1378,-1365
+VillageGuardTower,-2330,-2318,-1381,-1369

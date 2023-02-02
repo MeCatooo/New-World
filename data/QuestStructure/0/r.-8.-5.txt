@@ -1,0 +1,6 @@
+RLCraft_UndergroundFarm,-4284,-4241,-2742,-2700
+RLCraft_BasicWitch,-4300,-4300,-2695,-2695
+RLCraft_UndergroundRuin1,-4303,-4294,-2698,-2689
+RLCraft_DecentSkeleton,-4311,-4311,-2602,-2602
+RLCraft_UndergroundRuin3,-4317,-4309,-2605,-2597
+P_Tent,-4105,-4096,-2574,-2565

@@ -2,3 +2,11 @@ StonePlantMound1,3306,3312,2538,2544
 StoneLeafMound,3273,3282,2541,2548
 StoneBoulder,3193,3202,2543,2552
 StoneBoulder,3148,3157,2538,2547
+DinosaurSkull,3355,3366,2237,2256
+P_TreeDungeon,3301,3346,2190,2232
+RLCraft_SmallUndergroundSkeleton,3353,3361,2352,2360
+RLCraft_SmallUndergroundSkeleton,3325,3333,2175,2183
+RLCraft_SmallUndergroundSkeleton,3447,3455,2212,2220
+BigClockworkSite,3417,3452,2379,2424
+RLCraft_BasicSkeleton,3209,3209,2122,2122
+RLCraft_UndergroundRuin1,3206,3215,2116,2125

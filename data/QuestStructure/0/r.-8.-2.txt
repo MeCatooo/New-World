@@ -14,3 +14,10 @@ DinosaurSkull,-4379,-4368,-1390,-1371
 MysticalTree2,-4557,-4547,-1526,-1516
 RLCraft_DecentSkeleton,-4425,-4425,-1527,-1527
 RLCraft_UndergroundRuin3,-4430,-4422,-1529,-1521
+StoneBoulder,-4215,-4206,-1115,-1106
+SmallAbandonedMine,-4151,-4126,-1296,-1281
+StoneBoulder,-4145,-4136,-1121,-1112
+StonePlantMound,-4121,-4116,-1181,-1176
+DinosaurSkeleton,-4108,-4099,-1310,-1264
+RLCraft_SmallUndergroundSkeleton,-4190,-4182,-1508,-1500
+StoneIceBoulder1,-4198,-4188,-1478,-1468

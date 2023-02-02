@@ -1,0 +1,15 @@
+StonePlantMound2,-2872,-2860,-1539,-1526
+StonePlantMound4,-2851,-2844,-1507,-1500
+StonePlantBoulder,-2796,-2786,-1519,-1509
+ClayWaterMound,-2753,-2745,-1528,-1521
+StonePlantMound3,-2747,-2736,-1538,-1529
+SmallWoodenCottage2,-2854,-2846,-1474,-1466
+StonePlantMound1,-2857,-2851,-1452,-1446
+StonePlantMound,-2690,-2685,-1423,-1418
+ClayWaterMound,-2649,-2642,-1422,-1414
+StonePlantMound3,-2605,-2596,-1517,-1506
+ClayWaterMound,-2591,-2584,-1476,-1468
+RLCraft_DecentWitch,-2593,-2593,-1418,-1418
+RLCraft_UndergroundRuin3,-2599,-2591,-1421,-1413
+StonePlantBoulder,-2571,-2561,-1425,-1415
+StonePlantMound1,-2669,-2663,-1381,-1375

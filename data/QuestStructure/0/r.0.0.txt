@@ -20,3 +20,4 @@ SmallWoodenCottage1,-407,-401,-502,-491
 VillageTriplets,-513,-499,-410,-396
 SeasonsGreenhouse,-496,-486,-410,-398
 VillageGuardTower,-474,-462,-441,-429
+StonePlantMound3,151,162,7,16

@@ -1,0 +1,15 @@
+StonePlantBoulder,-5689,-5679,-481,-471
+RLCraft_SmallUndergroundSkeleton,-5679,-5671,-334,-326
+StonePlantMound3,-5707,-5696,-321,-312
+StoneBoulder,-5696,-5687,-311,-302
+StonePlantMound1,-5722,-5716,-314,-308
+StoneLeafMound,-5744,-5737,-426,-417
+StonePlantBoulder,-5878,-5868,-296,-286
+StonePlantMound1,-5778,-5772,-259,-253
+RLCraft_BasicSkeleton,-5863,-5863,-130,-130
+RLCraft_UndergroundRuin1,-5866,-5857,-136,-127
+RLCraft_DecentSkeleton,-5671,-5671,-32,-32
+RLCraft_UndergroundRuin3,-5677,-5669,-35,-27
+ShrineSmallWater,-5767,-5759,100,108
+ShrineSmallAir,-5880,-5872,-43,-35
+P_LargeShip,-5971,-5911,-10,8

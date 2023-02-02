@@ -37,3 +37,5 @@ StonePlantMound4,-5562,-5555,-1431,-1424
 StonePlantMound1,-5583,-5577,-1475,-1469
 DinosaurSkull,-5563,-5552,-1532,-1513
 StonePlantMound,-5218,-5213,-1482,-1477
+StonePlantMound1,-5322,-5316,-1501,-1495
+StonePlantBoulder,-5379,-5369,-1523,-1513

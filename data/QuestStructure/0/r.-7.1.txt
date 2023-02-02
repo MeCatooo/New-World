@@ -1,0 +1,5 @@
+UndergroundCultChamber,-3749,-3707,638,670
+StoneBoulder,-3612,-3603,710,719
+StonePlantMound4,-3626,-3619,767,774
+RLCraft_BasicCaveSpider,-3701,-3701,909,909
+RLCraft_UndergroundRuin1,-3704,-3695,903,912

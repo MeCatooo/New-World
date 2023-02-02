@@ -1,0 +1,6 @@
+P_LargeShip,-6688,-6670,-460,-400
+RLCraft_UndergroundFarm,-6807,-6765,-303,-260
+ShrineSmallFire,-6821,-6811,-230,-220
+RLCraft_DecentSkeleton,-6841,-6841,-352,-352
+RLCraft_UndergroundRuin3,-6847,-6839,-355,-347
+ShrineSmallFire,-6939,-6929,-327,-317

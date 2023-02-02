@@ -252,3 +252,14 @@ MesoMazePagoda,-4793,-4746,-892,-845
 RLCraft_DecentWitch,-4754,-4754,-793,-793
 RLCraft_UndergroundRuin2,-4759,-4749,-798,-791
 ClayWaterMound1,-4738,-4728,-878,-867
+PeacefulCrypt,-5074,-5050,-718,-702
+RLCraft_SmallUndergroundSkeleton,-4673,-4665,-867,-859
+StonePlantMound2,-4992,-4979,-666,-654
+StoneLeafMound,-5069,-5062,-607,-598
+SmallAbandonedMine,-5089,-5074,-614,-589
+RLCraft_SmallUndergroundSkeleton,-4658,-4650,-532,-524
+P_Tent,-4893,-4884,-715,-706
+StonePlantMound1,-4971,-4965,-657,-651
+StonePlantMound2,-4967,-4954,-641,-629
+ShrineSmallEarth,-4945,-4933,-624,-612
+RLCraft_UndergroundFarm,-4969,-4927,-626,-583

@@ -7,3 +7,10 @@ StoneBoulder,-5242,-5233,-1643,-1634
 StoneBoulder,-5239,-5230,-1624,-1615
 StonePlantMound,-5127,-5122,-1761,-1756
 StoneLeafMound,-5152,-5143,-1793,-1786
+RLCraft_SmallUndergroundSkeleton,-5266,-5258,-1573,-1565
+RLCraft_DecentWitch,-5291,-5291,-1591,-1591
+RLCraft_UndergroundRuin2,-5296,-5286,-1593,-1586
+StonePlantMound2,-5322,-5309,-1600,-1588
+SmallAbandonedMine,-5340,-5315,-1572,-1557
+StonePlantMound1,-5248,-5242,-1762,-1756
+StonePlantMound2,-5412,-5400,-1589,-1576

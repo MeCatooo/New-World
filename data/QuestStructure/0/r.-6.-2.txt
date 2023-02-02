@@ -1,0 +1,15 @@
+StonePlantMound1,-3576,-3570,-1446,-1440
+StonePlantBoulder,-3555,-3545,-1417,-1407
+StonePlantMound3,-3512,-3503,-1436,-1425
+RLCraft_SmallUndergroundSkeleton,-3470,-3462,-1379,-1371
+StonePlantMound,-3432,-3427,-1448,-1443
+StonePlantMound2,-3419,-3407,-1451,-1438
+StonePlantMound,-3392,-3387,-1431,-1426
+StonePlantMound,-3373,-3368,-1427,-1422
+StoneBoulder,-3370,-3361,-1540,-1531
+RLCraft_DecentZombie,-3232,-3232,-1500,-1500
+RLCraft_UndergroundRuin2,-3237,-3227,-1505,-1498
+ShrineSmallFire,-3111,-3101,-1439,-1429
+StonePlantMound3,-3291,-3282,-1362,-1351
+RLCraft_BasicSpider,-3231,-3231,-1363,-1363
+RLCraft_UndergroundRuin1,-3237,-3228,-1369,-1360

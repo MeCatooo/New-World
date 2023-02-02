@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2023-01-29 15:46:48 +0100"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2023-01-30 14:13:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-02-01 13:20:55 +0100"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2023-02-01 18:56:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-01-29 13:03:55 +0100"
@@ -296,6 +314,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-01-29 12:22:55 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
     },
     "done": true
   },
@@ -557,10 +581,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2023-02-01 16:47:37 +0100",
       "stray": "2023-01-29 16:01:55 +0100",
       "wither_skeleton": "2023-01-29 13:42:42 +0100",
       "zombie_villager": "2023-01-29 16:16:55 +0100",
       "polar_bear": "2023-01-31 17:25:02 +0100",
+      "slime": "2023-02-01 22:55:18 +0100",
       "vindicator": "2023-01-29 13:45:44 +0100",
       "skeleton": "2023-01-29 13:04:54 +0100",
       "blaze": "2023-01-30 15:37:29 +0100",
@@ -573,6 +599,12 @@
       "enderman": "2023-01-30 14:14:08 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-01 11:07:39 +0100"
+    },
+    "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
@@ -655,6 +687,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2023-01-31 13:43:55 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
     },
     "done": true
   },
@@ -898,6 +936,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-01-29 12:22:55 +0100"
@@ -1006,9 +1050,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-01-29 12:24:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-01 11:07:39 +0100"
     },
     "done": true
   },
@@ -1020,6 +1076,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2023-02-01 16:25:23 +0100",
+      "frozen_river": "2023-02-01 16:25:55 +0100",
       "forest": "2023-01-29 11:45:05 +0100",
       "swampland": "2023-01-29 12:55:56 +0100",
       "birch_forest": "2023-01-30 11:12:26 +0100",
@@ -1034,6 +1092,8 @@
       "birch_forest_hills": "2023-01-30 10:19:11 +0100",
       "ocean": "2023-01-29 11:44:07 +0100",
       "extreme_hills": "2023-01-29 12:18:47 +0100",
+      "roofed_forest": "2023-02-01 19:05:25 +0100",
+      "cold_beach": "2023-02-01 20:16:29 +0100",
       "river": "2023-01-29 11:45:34 +0100",
       "stone_beach": "2023-01-31 17:36:42 +0100"
     },
@@ -1066,6 +1126,18 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2023-01-30 12:25:32 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2023-02-01 18:56:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-02-01 11:08:28 +0100"
     },
     "done": true
   },
@@ -1165,6 +1237,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2023-02-01 13:20:55 +0100"
+    },
+    "done": true
+  },
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2023-01-29 12:27:21 +0100"
@@ -1198,6 +1276,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-01-29 15:22:49 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
     },
     "done": true
   },
@@ -1285,9 +1369,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2023-02-01 21:12:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_the_recipe": "2023-01-29 11:59:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-02-01 11:07:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2023-02-01 15:20:57 +0100"
     },
     "done": true
   },
@@ -1381,6 +1483,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2023-02-01 18:56:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-01-29 15:22:49 +0100"
@@ -1471,6 +1579,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2023-01-29 11:46:02 +0100"
@@ -1505,11 +1619,15 @@
     "criteria": {
       "cooked_mutton": "2023-01-29 15:22:40 +0100",
       "cooked_beef": "2023-01-30 13:07:07 +0100",
+      "baked_potato": "2023-02-01 22:55:11 +0100",
       "apple": "2023-01-31 11:28:09 +0100",
+      "cooked_cod": "2023-02-01 20:58:44 +0100",
       "melon": "2023-01-30 12:48:57 +0100",
+      "pumpkin_pie": "2023-02-01 12:12:14 +0100",
       "golden_apple": "2023-01-30 11:50:04 +0100",
       "bread": "2023-01-30 13:44:34 +0100",
-      "cooked_salmon": "2023-01-31 13:04:40 +0100"
+      "cooked_salmon": "2023-01-31 13:04:40 +0100",
+      "carrot": "2023-02-01 21:42:55 +0100"
     },
     "done": false
   },
@@ -1546,6 +1664,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2023-01-29 12:43:17 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
     },
     "done": true
   },
@@ -1624,6 +1748,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-01-29 11:45:42 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
     },
     "done": true
   },
@@ -1837,6 +1967,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/idol_sorrow": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-01-29 12:44:38 +0100"
@@ -1897,15 +2033,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_at_least_9_gold_nugget": "2023-01-31 16:25:23 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2023-01-31 15:44:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2023-01-31 16:25:23 +0100"
     },
     "done": true
   },
@@ -2215,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2023-02-01 15:20:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2023-01-29 13:18:17 +0100"
@@ -2251,6 +2393,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2023-01-29 13:02:32 +0100"
@@ -2266,6 +2414,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-01-29 13:18:17 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
     },
     "done": true
   },
@@ -2287,6 +2441,12 @@
     },
     "done": true
   },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2023-02-01 15:25:57 +0100"
+    },
+    "done": true
+  },
   "spartanweaponry:boomerang": {
     "criteria": {
       "craft": "2023-01-29 13:54:20 +0100"
@@ -2302,6 +2462,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2023-01-30 14:35:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2023-02-01 13:20:55 +0100"
     },
     "done": true
   },
@@ -2443,6 +2609,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2023-02-01 19:16:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2023-01-29 17:28:26 +0100"
@@ -2458,6 +2630,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-01-29 12:22:55 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2023-02-01 15:25:57 +0100"
     },
     "done": true
   },
